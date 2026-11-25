@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tejas-singh-31.github.io/scrollguard-site/sitemap.xml
